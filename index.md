@@ -15,15 +15,17 @@ Below you see an example of embedding an image that is found in this repository'
 
 ![screen of a comment on a Github issue show 
 
+
 Below you see an example of embedding an image 
+![camera-6707438_1280](https://github.com/2314409/CS220AU-DP/assets/149806985/5b45e36c-29d1-4004-bd30-eca005512f9b)
+
 ![](https://khofstadter.com/assets/img/2005-04-01-khofstadter-painting-chien.jpg). 
 
-## 
 
 a footnot can have multiple lines 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lfPJ7Tz4JGs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+##Conclution
 ## More examples
 Make sure you check out the [Markdown language](https://guides.github.com/features/mastering-markdown/) guide. 
 
